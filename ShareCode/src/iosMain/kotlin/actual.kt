@@ -1,4 +1,4 @@
-package org.usayuki.HelloKotlinNative.ShareCode
+package org.usayuki.kotlinnative
 
 import platform.UIKit.UIDevice
 
