@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ShareCode-android">
+    <output-path>$PROJECT_DIR$/ShareCode/build/libs</output-path>
+    <root id="archive" name="ShareCode-android.jar" />
+  </artifact>
+</component>
